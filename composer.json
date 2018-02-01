@@ -17,6 +17,14 @@
       "role": "Developer"
     }
   ],
+  "repositories": [
+      {
+          "name": "ps/image-optimizer",
+          "type": "git",
+          "no-api": true,
+          "url": "https://github.com/JohnsonMikeJ/image-optimizer.git"
+      }
+  ],  
   "require": {
     "ps/image-optimizer": "dev-laravel-5.6x"
   },
